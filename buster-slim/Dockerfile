@@ -1,4 +1,4 @@
-FROM node:10.16-buster-slim
+FROM node:12.8-buster-slim
 LABEL version=1.0.0
 
 ENV USERNAME dev
